@@ -3,6 +3,7 @@
 # output> (2,4) returns 6
 
 def findSumPairs(data, sum):
+    """ Function returns the pair elements which result the desired sum """
     pairs = []
     for i in range(len(data)):
         for j in range(i+1, len(data)):
