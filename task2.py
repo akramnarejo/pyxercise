@@ -3,6 +3,7 @@
 # output> (-4,-6)
 
 def maxProduct(data):
+    """ Function returns the pair of elements which result the maximium product """
     maxval = float('-inf')
     for i in range(len(data)):
         for j in range(i+1, len(data)):
