@@ -7,7 +7,6 @@ class Rolldice():
 		If the sum of two rolls is greater or equat to 8, You win else you're asked to try again."""
 
 		print("\t Welcome to Roll Dice Game")
-		print("This is a dice roll game, computer rolls the dice two times for you.\n If the sum of two rolls is greater or equat to 8, You win else you're asked to try again.")
 		name = input('Enter your name: ')
 		quit = 'y'
 		score = 0
