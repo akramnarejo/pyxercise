@@ -5,3 +5,4 @@
 * task4: Make a quiz that returns the number of correctly answered questions.
 * task5: Rock, Papper and Scissors
 * task6: Roll dice game
+* task7: Guess the secret
