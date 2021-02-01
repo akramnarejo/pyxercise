@@ -6,3 +6,4 @@
 * task5: Rock, Papper and Scissors
 * task6: Roll dice game
 * task7: Guess the secret
+* task8: Rock Paper Scissors game
